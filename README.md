@@ -36,6 +36,7 @@ I divided the task into 3 sub-tasks:
 ### References:
 1. [A quick intro to the Bernstein-Vazirani algorithm & the phase kcik-back ](https://medium.com/nerd-for-tech/one-try-qc-explained-5b466c199616)
 2. [Bernstein-Vazirani Algorithm Qiskit textbook](https://qiskit.org/textbook/ch-algorithms/bernstein-vazirani.html)
+3. [Bernstein, Ethan, and Umesh Vazirani. "Quantum complexity theory."](https://dl.acm.org/doi/pdf/10.1145/167088.167097)
 
 
 <img src="BVCircuit.png" alt="Bernstein-Vazirani Circuit" width="200"/>
