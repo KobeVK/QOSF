@@ -39,4 +39,4 @@ I divided the task into 3 sub-tasks:
 3. [Bernstein, Ethan, and Umesh Vazirani. "Quantum complexity theory."](https://dl.acm.org/doi/pdf/10.1145/167088.167097)
 
 
-<img src="BVCircuit.png" alt="Bernstein-Vazirani Circuit" width="200"/>
+<img src="BVCircuit.png" alt="Bernstein-Vazirani Circuit"/>
