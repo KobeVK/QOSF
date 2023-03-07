@@ -1,4 +1,3 @@
-# Importing necessary libraries
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit, Aer, execute
 from qiskit.visualization import *
 
